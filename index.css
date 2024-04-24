@@ -62,18 +62,23 @@ main .slider img{
    border-bottom: 2px solid black;
    width: 795px;
    height: 445px;
+  
 
+}
+.hero{
+    display: flex;
 }
 
 .img2 p{
-  font-size: 20px;
+  font-size: 25px;
   padding-left: 20px;
-}
+  margin-top: 60px;
+} 
  .img2 img{
-     width: 250px;
-    height: 200px; 
-    margin-left: 542px;
-    margin-bottom: 60px;
+     width: 350px;
+    height: 250px; 
+  position: relative;
+  top: 34px;
 }
 .img3{
    border-bottom: 2px solid black;
@@ -81,32 +86,41 @@ main .slider img{
    height: 445px;
 
 }
+.hero2{
+    display: flex;
+}
 
 .img3 p{
-  font-size: 20px;
+  font-size: 25px;
   padding-left: 20px;
+  margin-top: 60px;
 }
  .img3 img{
-     width: 250px;
-    height: 200px; 
-    margin-left: 542px;
-    margin-bottom: 60px;
+     width: 350px;
+    height: 250px; 
+position: relative;
+top:34px ;
 }
 .img4{
    width: 795px;
    height: 445px;
   border: none;
 }
+.hero3{
+    display: flex;
+}
 
 .img4 p{
-  font-size: 20px;
+  font-size: 25px;
   padding-left: 20px;
+margin-top: 60px;
+
 }
  .img4 img{
-     width: 250px;
-    height: 200px; 
-    margin-left: 542px;
-    margin-bottom: 60px;
+     width: 350px;
+    height: 250px; 
+  position: relative;
+  top: 34px;
 }
 .bttn{
     width: 0;
